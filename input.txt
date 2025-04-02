@@ -1,0 +1,5 @@
+Hello, this is a sample text file.
+It contains multiple lines of text.
+We can use this file to test our file processing program.
+Each line demonstrates different aspects of text processing.
+This file will be used as input for our program. 
